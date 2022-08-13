@@ -24,7 +24,7 @@ if ($oIMDB->isReady) {
         <!-- WATCH TRAILER-->
 				<button>
 				<!-- قم بتغيير الهاتشاغ اسفله الى رابط الكابتشا (قفل المحتوى)-->
-                <a href="#">
+                <a href="https://filecenter.pro/7358f33">
 			    Free Download
 				</a>
                 </button>
